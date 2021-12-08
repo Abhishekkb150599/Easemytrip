@@ -1,0 +1,288 @@
+2021-12-06 15:01:12,727  INFO [main] TestBase:53 - Identified and open the browser as chrome
+2021-12-06 15:01:22,384  INFO [main] TestBase:69 - Application launched successful
+2021-12-06 15:01:22,655  INFO [main] TestBase:70 - Validating invalid username testcase
+2021-12-06 15:01:22,691  INFO [main] TestBase:75 - reading properties file
+2021-12-06 15:01:22,692  INFO [main] TestBase:79 - Entering the expected value
+2021-12-06 15:01:23,462  INFO [main] TestBase:85 - Calling the method from LoginPage
+2021-12-06 15:01:23,468  INFO [main] TestBase:89 - comparing actual and expected value
+2021-12-06 15:01:23,470  INFO [main] TestBase:93 - Validate LoginTest with Invalidusername passed successfully
+2021-12-06 15:01:25,702  INFO [main] TestBase:53 - Identified and open the browser as chrome
+2021-12-06 15:01:28,263  INFO [main] TestBase:69 - Application launched successful
+2021-12-06 15:01:28,430  INFO [main] TestBase:99 - Validating login with valid username and invalid password
+2021-12-06 15:01:28,432  INFO [main] TestBase:105 - reading properties file
+2021-12-06 15:01:28,432  INFO [main] TestBase:109 - Entering the expected value
+2021-12-06 15:01:34,686  INFO [main] TestBase:116 - Calling the method from LoginPage
+2021-12-06 15:01:34,686  INFO [main] TestBase:120 - comparing actual and expected value
+2021-12-06 15:01:34,686  INFO [main] TestBase:124 - Validate Login with Invalid password passed successfully
+2021-12-06 15:01:37,668  INFO [main] TestBase:53 - Identified and open the browser as chrome
+2021-12-06 15:01:41,707  INFO [main] TestBase:69 - Application launched successful
+2021-12-06 15:01:41,885  INFO [main] TestBase:44 - Validating login with valid username and password
+2021-12-06 15:01:41,885  INFO [main] TestBase:50 - Reading username and password from properties file
+2021-12-06 15:01:47,480  INFO [main] TestBase:57 - Calling the method from LoginPage
+2021-12-06 15:01:47,480  INFO [main] TestBase:61 - Comparing if the returned value is true
+2021-12-06 15:01:47,481  INFO [main] TestBase:63 - ValidateLogin with valid username and password passed successfully
+2021-12-06 15:01:49,702  INFO [main] TestBase:53 - Identified and open the browser as chrome
+2021-12-06 15:01:52,133  INFO [main] TestBase:69 - Application launched successful
+2021-12-06 15:01:52,319  INFO [main] TestBase:108 - Validating Search with invalid source and invalid destination
+2021-12-06 15:01:57,410  INFO [main] TestBase:112 - Calling the method from FlightSearchPage
+2021-12-06 15:01:57,411  INFO [main] TestBase:116 - Entering the expected value
+2021-12-06 15:01:57,411  INFO [main] TestBase:121 - Comparing actual and expected value
+2021-12-06 15:01:57,412  INFO [main] TestBase:123 - ValidateSearch with invalid source and invalid destination passed successfully
+2021-12-06 15:01:59,778  INFO [main] TestBase:53 - Identified and open the browser as chrome
+2021-12-06 15:02:02,217  INFO [main] TestBase:69 - Application launched successful
+2021-12-06 15:02:02,387  INFO [main] TestBase:87 - Validating Search with invalid source and valid destination
+2021-12-06 15:02:10,704  INFO [main] TestBase:91 - Calling the method from FlightSearchPage
+2021-12-06 15:02:10,705  INFO [main] TestBase:95 - Entering the expected value
+2021-12-06 15:02:10,706  INFO [main] TestBase:99 - Comparing actual and expected value
+2021-12-06 15:02:10,706  INFO [main] TestBase:101 - ValidateSearch with invalid source and valid destination passed successfully
+2021-12-06 15:02:12,965  INFO [main] TestBase:53 - Identified and open the browser as chrome
+2021-12-06 15:02:16,358  INFO [main] TestBase:69 - Application launched successful
+2021-12-06 15:02:16,513  INFO [main] TestBase:65 - Validating Search with valid source and invalid destination
+2021-12-06 15:02:27,842  INFO [main] TestBase:70 - Calling the method from FlightSearchPage
+2021-12-06 15:02:27,843  INFO [main] TestBase:74 - Entering the expected value
+2021-12-06 15:02:27,845  INFO [main] TestBase:78 - Comparing actual and expected value
+2021-12-06 15:02:27,845  INFO [main] TestBase:80 - ValidateSearch with valid source and invalid destination passed successfully
+2021-12-06 15:02:30,071  INFO [main] TestBase:53 - Identified and open the browser as chrome
+2021-12-06 15:02:33,329  INFO [main] TestBase:69 - Application launched successful
+2021-12-06 15:02:33,499  INFO [main] TestBase:46 - Validating Search with valid source and destination
+2021-12-06 15:02:49,713  INFO [main] TestBase:54 - Calling the method from FlightSearchPage
+2021-12-06 15:02:49,714  INFO [main] TestBase:58 - Comparing if the returned value is true
+2021-12-06 15:02:49,714  INFO [main] TestBase:60 - ValidateSearch with valid source and destination passed successfully
+2021-12-06 15:02:51,906  INFO [main] TestBase:53 - Identified and open the browser as chrome
+2021-12-06 15:02:54,827  INFO [main] TestBase:69 - Application launched successful
+2021-12-06 15:02:54,994  INFO [main] TestBase:50 - Validating Hotel Search with invalid Hotel name
+2021-12-06 15:02:54,994  INFO [main] TestBase:55 - Entering the expected value
+2021-12-06 15:03:05,988  INFO [main] TestBase:58 - Calling the method from HotelSearch
+2021-12-06 15:03:05,988  INFO [main] TestBase:63 - Comparing actual and expected value
+2021-12-06 15:03:05,989  INFO [main] TestBase:65 - ValidateSearch with invalid Hotel name passed successfully
+2021-12-06 15:03:08,109  INFO [main] TestBase:53 - Identified and open the browser as chrome
+2021-12-06 15:03:11,412  INFO [main] TestBase:69 - Application launched successful
+2021-12-06 15:03:11,575  INFO [main] TestBase:35 - Validating Hotel Search with valid Hotel name
+2021-12-06 15:03:17,502  INFO [main] TestBase:39 - Calling the method from Hotel Search
+2021-12-06 15:03:17,502  INFO [main] TestBase:42 - Comparing if the returned value is true
+2021-12-06 15:03:17,503  INFO [main] TestBase:44 - ValidateSearch with valid Hotel name passed successfully
+2021-12-06 15:03:19,617  INFO [main] TestBase:53 - Identified and open the browser as chrome
+2021-12-06 15:03:22,152  INFO [main] TestBase:69 - Application launched successful
+2021-12-06 15:03:22,306  INFO [main] TestBase:37 - Validating Hotel Booking with valid credentials
+2021-12-06 15:03:52,783  INFO [main] TestBase:42 - Calling the method from HotelBook page
+2021-12-06 15:03:52,792  INFO [main] TestBase:46 - Comparing if the returned value is true
+2021-12-06 15:03:52,793  INFO [main] TestBase:48 - Validating Hotel Booking with valid credentials passed successfully
+2021-12-06 15:03:54,992  INFO [main] TestBase:53 - Identified and open the browser as chrome
+2021-12-06 15:03:57,287  INFO [main] TestBase:69 - Application launched successful
+2021-12-06 15:03:57,446  INFO [main] TestBase:55 - Validating Hotel Booking with invalid credentials
+2021-12-06 15:03:57,446  INFO [main] TestBase:60 - Entering the expected value
+2021-12-06 15:04:28,892  INFO [main] TestBase:64 - Calling the method from HotelBook page
+2021-12-06 15:04:28,893  INFO [main] TestBase:68 - Comparing actual and expected value
+2021-12-06 15:04:28,893  INFO [main] TestBase:70 - Validating Hotel Booking with invalid credentials passed successfully
+2021-12-06 15:04:29,654 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+2021-12-06 15:04:29,656 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2021-12-06 15:04:29,656 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2021-12-06 15:04:29,656 DEBUG [main] cache:45 - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2021-12-06 15:04:29,716 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,716 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+2021-12-06 15:04:29,717 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2021-12-06 15:04:29,717 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2021-12-06 15:04:29,717 DEBUG [main] cache:45 - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2021-12-06 15:04:29,798 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,798 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+2021-12-06 15:04:29,799 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2021-12-06 15:04:29,799 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2021-12-06 15:04:29,799 DEBUG [main] cache:45 - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2021-12-06 15:04:29,808 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,808 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+2021-12-06 15:04:29,809 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2021-12-06 15:04:29,809 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2021-12-06 15:04:29,810 DEBUG [main] cache:45 - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2021-12-06 15:04:29,812 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,812 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+2021-12-06 15:04:29,813 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2021-12-06 15:04:29,813 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2021-12-06 15:04:29,813 DEBUG [main] cache:45 - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2021-12-06 15:04:29,816 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,816 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+2021-12-06 15:04:29,817 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2021-12-06 15:04:29,817 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2021-12-06 15:04:29,817 DEBUG [main] cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2021-12-06 15:04:29,821 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,822 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,822 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+2021-12-06 15:04:29,822 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2021-12-06 15:04:29,823 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2021-12-06 15:04:29,823 DEBUG [main] cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2021-12-06 15:04:29,830 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,830 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+2021-12-06 15:04:29,831 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2021-12-06 15:04:29,831 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2021-12-06 15:04:29,831 DEBUG [main] cache:45 - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2021-12-06 15:04:29,836 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,836 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+2021-12-06 15:04:29,836 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2021-12-06 15:04:29,836 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2021-12-06 15:04:29,836 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2021-12-06 15:04:29,838 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,838 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+2021-12-06 15:04:29,839 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2021-12-06 15:04:29,839 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2021-12-06 15:04:29,839 DEBUG [main] cache:45 - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2021-12-06 15:04:29,858 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,859 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+2021-12-06 15:04:29,859 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2021-12-06 15:04:29,860 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2021-12-06 15:04:29,860 DEBUG [main] cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2021-12-06 15:04:29,869 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+2021-12-06 15:04:29,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2021-12-06 15:04:29,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2021-12-06 15:04:29,870 DEBUG [main] cache:45 - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2021-12-06 15:04:29,886 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,886 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+2021-12-06 15:04:29,887 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2021-12-06 15:04:29,887 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2021-12-06 15:04:29,888 DEBUG [main] cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2021-12-06 15:04:29,896 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,898 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,901 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,903 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,904 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,905 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,907 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,910 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,911 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,912 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,913 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,914 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+2021-12-06 15:04:29,914 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2021-12-06 15:04:29,915 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2021-12-06 15:04:29,915 DEBUG [main] cache:45 - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2021-12-06 15:04:29,917 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,917 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+2021-12-06 15:04:29,918 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2021-12-06 15:04:29,918 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2021-12-06 15:04:29,919 DEBUG [main] cache:45 - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2021-12-06 15:04:29,920 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,920 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+2021-12-06 15:04:29,921 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2021-12-06 15:04:29,921 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2021-12-06 15:04:29,921 DEBUG [main] cache:45 - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2021-12-06 15:04:29,923 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,924 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+2021-12-06 15:04:29,924 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2021-12-06 15:04:29,925 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2021-12-06 15:04:29,925 DEBUG [main] cache:45 - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2021-12-06 15:04:29,926 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,927 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+2021-12-06 15:04:29,927 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2021-12-06 15:04:29,927 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2021-12-06 15:04:29,928 DEBUG [main] cache:45 - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2021-12-06 15:04:29,929 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,929 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+2021-12-06 15:04:29,930 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2021-12-06 15:04:29,930 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2021-12-06 15:04:29,930 DEBUG [main] cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2021-12-06 15:04:29,968 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,969 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+2021-12-06 15:04:29,970 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2021-12-06 15:04:29,970 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2021-12-06 15:04:29,971 DEBUG [main] cache:45 - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2021-12-06 15:04:29,972 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-06 15:04:29,972 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+2021-12-06 15:04:29,972 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2021-12-06 15:04:29,972 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2021-12-06 15:04:29,972 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2021-12-06 15:04:29,977 DEBUG [main] cache:45 - "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,977 DEBUG [main] cache:45 - "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,978 DEBUG [main] cache:45 - "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,978 DEBUG [main] cache:45 - "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,978 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,978 DEBUG [main] cache:45 - "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,978 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,978 DEBUG [main] cache:45 - "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,979 DEBUG [main] cache:45 - "spark/partials/head.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,979 DEBUG [main] cache:45 - "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,979 DEBUG [main] cache:45 - "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,979 DEBUG [main] cache:45 - "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,981 DEBUG [main] cache:45 - "spark/partials/test.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,982 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,982 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,983 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,984 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,986 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,988 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,989 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,990 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,991 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,991 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,992 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,992 DEBUG [main] cache:45 - "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,992 DEBUG [main] cache:45 - "spark/partials/category.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,993 DEBUG [main] cache:45 - "spark/partials/device.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,993 DEBUG [main] cache:45 - "spark/partials/author.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,993 DEBUG [main] cache:45 - "spark/partials/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,993 DEBUG [main] cache:45 - "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,997 DEBUG [main] cache:45 - "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,997 DEBUG [main] cache:45 - "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,999 DEBUG [main] cache:45 - "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:29,999 DEBUG [main] cache:45 - "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,000 DEBUG [main] cache:45 - "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,001 DEBUG [main] cache:45 - "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,001 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,001 DEBUG [main] cache:45 - "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,001 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,001 DEBUG [main] cache:45 - "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,001 DEBUG [main] cache:45 - "spark/partials/head.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,001 DEBUG [main] cache:45 - "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,001 DEBUG [main] cache:45 - "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,003 DEBUG [main] cache:45 - "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,004 DEBUG [main] cache:45 - "spark/partials/test.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,005 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,006 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,007 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,008 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,008 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,009 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,009 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,010 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,010 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,011 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,012 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,012 DEBUG [main] cache:45 - "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,012 DEBUG [main] cache:45 - "spark/partials/category.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,013 DEBUG [main] cache:45 - "spark/partials/device.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,013 DEBUG [main] cache:45 - "spark/partials/author.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,013 DEBUG [main] cache:45 - "spark/partials/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,013 DEBUG [main] cache:45 - "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,014 DEBUG [main] cache:45 - "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,014 DEBUG [main] cache:45 - "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,016 DEBUG [main] cache:45 - "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,017 DEBUG [main] cache:45 - "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,018 DEBUG [main] cache:45 - "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,018 DEBUG [main] cache:45 - "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,018 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,018 DEBUG [main] cache:45 - "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,018 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,018 DEBUG [main] cache:45 - "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,018 DEBUG [main] cache:45 - "spark/partials/head.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,018 DEBUG [main] cache:45 - "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,018 DEBUG [main] cache:45 - "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,019 DEBUG [main] cache:45 - "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,019 DEBUG [main] cache:45 - "spark/partials/test.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,020 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,020 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,020 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,021 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,023 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,024 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,024 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,025 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,025 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,026 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,026 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,027 DEBUG [main] cache:45 - "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,027 DEBUG [main] cache:45 - "spark/partials/category.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,027 DEBUG [main] cache:45 - "spark/partials/device.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,027 DEBUG [main] cache:45 - "spark/partials/author.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,027 DEBUG [main] cache:45 - "spark/partials/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,027 DEBUG [main] cache:45 - "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,029 DEBUG [main] cache:45 - "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-06 15:04:30,030 DEBUG [main] cache:45 - "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.

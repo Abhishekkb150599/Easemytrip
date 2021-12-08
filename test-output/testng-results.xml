@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="201864" started-at="2021-12-06T15:01:08 IST" finished-at="2021-12-06T15:04:30 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="201864" started-at="2021-12-06T15:01:08 IST" finished-at="2021-12-06T15:04:30 IST">
+      <class name="com.testcase.HotelSearchTest">
+        <test-method status="PASS" signature="Reportsetup()[pri:0, instance:com.testcase.HotelSearchTest@66d1af89]" name="Reportsetup" is-config="true" duration-ms="1" started-at="2021-12-06T15:01:08 IST" finished-at="2021-12-06T15:01:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reportsetup -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.testcase.HotelSearchTest@66d1af89]" name="initialize" is-config="true" duration-ms="4509" started-at="2021-12-06T15:02:50 IST" finished-at="2021-12-06T15:02:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="invalidHotelSrch()[pri:0, instance:com.testcase.HotelSearchTest@66d1af89]" name="invalidHotelSrch" duration-ms="10997" started-at="2021-12-06T15:02:54 IST" finished-at="2021-12-06T15:03:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidHotelSrch -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testcase.HotelSearchTest@66d1af89]" name="close" is-config="true" duration-ms="723" started-at="2021-12-06T15:03:05 IST" finished-at="2021-12-06T15:03:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.testcase.HotelSearchTest@66d1af89]" name="initialize" is-config="true" duration-ms="4859" started-at="2021-12-06T15:03:06 IST" finished-at="2021-12-06T15:03:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="validHotelSrch()[pri:0, instance:com.testcase.HotelSearchTest@66d1af89]" name="validHotelSrch" duration-ms="5929" started-at="2021-12-06T15:03:11 IST" finished-at="2021-12-06T15:03:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validHotelSrch -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testcase.HotelSearchTest@66d1af89]" name="close" is-config="true" duration-ms="712" started-at="2021-12-06T15:03:17 IST" finished-at="2021-12-06T15:03:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="GenerateReport()[pri:0, instance:com.testcase.HotelSearchTest@66d1af89]" name="GenerateReport" is-config="true" duration-ms="22" started-at="2021-12-06T15:04:29 IST" finished-at="2021-12-06T15:04:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GenerateReport -->
+      </class> <!-- com.testcase.HotelSearchTest -->
+      <class name="com.testcase.LoginPageTest">
+        <test-method status="PASS" signature="Reportsetup()[pri:0, instance:com.testcase.LoginPageTest@e720b71]" name="Reportsetup" is-config="true" duration-ms="1" started-at="2021-12-06T15:01:08 IST" finished-at="2021-12-06T15:01:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reportsetup -->
+        <test-method status="PASS" signature="setup1()[pri:0, instance:com.testcase.LoginPageTest@e720b71]" name="setup1" is-config="true" duration-ms="13929" started-at="2021-12-06T15:01:08 IST" finished-at="2021-12-06T15:01:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="PASS" signature="validateLoginInvalidNoTest()[pri:0, instance:com.testcase.LoginPageTest@e720b71]" name="validateLoginInvalidNoTest" duration-ms="830" started-at="2021-12-06T15:01:22 IST" finished-at="2021-12-06T15:01:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginInvalidNoTest -->
+        <test-method status="PASS" signature="closeSetup()[pri:0, instance:com.testcase.LoginPageTest@e720b71]" name="closeSetup" is-config="true" duration-ms="714" started-at="2021-12-06T15:01:23 IST" finished-at="2021-12-06T15:01:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method status="PASS" signature="setup1()[pri:0, instance:com.testcase.LoginPageTest@e720b71]" name="setup1" is-config="true" duration-ms="4235" started-at="2021-12-06T15:01:24 IST" finished-at="2021-12-06T15:01:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="PASS" signature="validateLoginInvalidpassTest()[pri:0, instance:com.testcase.LoginPageTest@e720b71]" name="validateLoginInvalidpassTest" duration-ms="6259" started-at="2021-12-06T15:01:28 IST" finished-at="2021-12-06T15:01:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginInvalidpassTest -->
+        <test-method status="PASS" signature="closeSetup()[pri:0, instance:com.testcase.LoginPageTest@e720b71]" name="closeSetup" is-config="true" duration-ms="1475" started-at="2021-12-06T15:01:34 IST" finished-at="2021-12-06T15:01:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method status="PASS" signature="setup1()[pri:0, instance:com.testcase.LoginPageTest@e720b71]" name="setup1" is-config="true" duration-ms="5721" started-at="2021-12-06T15:01:36 IST" finished-at="2021-12-06T15:01:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="PASS" signature="validateLoginTest()[pri:0, instance:com.testcase.LoginPageTest@e720b71]" name="validateLoginTest" duration-ms="5597" started-at="2021-12-06T15:01:41 IST" finished-at="2021-12-06T15:01:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginTest -->
+        <test-method status="PASS" signature="closeSetup()[pri:0, instance:com.testcase.LoginPageTest@e720b71]" name="closeSetup" is-config="true" duration-ms="710" started-at="2021-12-06T15:01:47 IST" finished-at="2021-12-06T15:01:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method status="PASS" signature="GenerateReport()[pri:0, instance:com.testcase.LoginPageTest@e720b71]" name="GenerateReport" is-config="true" duration-ms="17" started-at="2021-12-06T15:04:29 IST" finished-at="2021-12-06T15:04:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GenerateReport -->
+      </class> <!-- com.testcase.LoginPageTest -->
+      <class name="com.testcase.TestSourceAndDestination">
+        <test-method status="PASS" signature="Reportsetup()[pri:0, instance:com.testcase.TestSourceAndDestination@757942a1]" name="Reportsetup" is-config="true" duration-ms="1" started-at="2021-12-06T15:01:08 IST" finished-at="2021-12-06T15:01:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reportsetup -->
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:com.testcase.TestSourceAndDestination@757942a1]" name="Initialize" is-config="true" duration-ms="4121" started-at="2021-12-06T15:01:48 IST" finished-at="2021-12-06T15:01:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="InvalidSourceAndInvalidDestination()[pri:0, instance:com.testcase.TestSourceAndDestination@757942a1]" name="InvalidSourceAndInvalidDestination" duration-ms="5095" started-at="2021-12-06T15:01:52 IST" finished-at="2021-12-06T15:01:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidSourceAndInvalidDestination -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testcase.TestSourceAndDestination@757942a1]" name="close" is-config="true" duration-ms="750" started-at="2021-12-06T15:01:57 IST" finished-at="2021-12-06T15:01:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:com.testcase.TestSourceAndDestination@757942a1]" name="Initialize" is-config="true" duration-ms="4220" started-at="2021-12-06T15:01:58 IST" finished-at="2021-12-06T15:02:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="InvalidSourceAndvalidDestination()[pri:0, instance:com.testcase.TestSourceAndDestination@757942a1]" name="InvalidSourceAndvalidDestination" duration-ms="8322" started-at="2021-12-06T15:02:02 IST" finished-at="2021-12-06T15:02:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidSourceAndvalidDestination -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testcase.TestSourceAndDestination@757942a1]" name="close" is-config="true" duration-ms="741" started-at="2021-12-06T15:02:10 IST" finished-at="2021-12-06T15:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:com.testcase.TestSourceAndDestination@757942a1]" name="Initialize" is-config="true" duration-ms="5060" started-at="2021-12-06T15:02:11 IST" finished-at="2021-12-06T15:02:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="ValidSourceAndInvalidDestination()[pri:0, instance:com.testcase.TestSourceAndDestination@757942a1]" name="ValidSourceAndInvalidDestination" duration-ms="11333" started-at="2021-12-06T15:02:16 IST" finished-at="2021-12-06T15:02:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidSourceAndInvalidDestination -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testcase.TestSourceAndDestination@757942a1]" name="close" is-config="true" duration-ms="746" started-at="2021-12-06T15:02:27 IST" finished-at="2021-12-06T15:02:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:com.testcase.TestSourceAndDestination@757942a1]" name="Initialize" is-config="true" duration-ms="4901" started-at="2021-12-06T15:02:28 IST" finished-at="2021-12-06T15:02:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="validSourceAndvalidDestination()[pri:0, instance:com.testcase.TestSourceAndDestination@757942a1]" name="validSourceAndvalidDestination" duration-ms="16219" started-at="2021-12-06T15:02:33 IST" finished-at="2021-12-06T15:02:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validSourceAndvalidDestination -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testcase.TestSourceAndDestination@757942a1]" name="close" is-config="true" duration-ms="764" started-at="2021-12-06T15:02:49 IST" finished-at="2021-12-06T15:02:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="GenerateReport()[pri:0, instance:com.testcase.TestSourceAndDestination@757942a1]" name="GenerateReport" is-config="true" duration-ms="16" started-at="2021-12-06T15:04:30 IST" finished-at="2021-12-06T15:04:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GenerateReport -->
+      </class> <!-- com.testcase.TestSourceAndDestination -->
+      <class name="com.testcase.BookHotelTest">
+        <test-method status="PASS" signature="Reportsetup()[pri:0, instance:com.testcase.BookHotelTest@8646db9]" name="Reportsetup" is-config="true" duration-ms="483" started-at="2021-12-06T15:01:08 IST" finished-at="2021-12-06T15:01:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reportsetup -->
+        <test-method status="PASS" signature="setup1()[pri:0, instance:com.testcase.BookHotelTest@8646db9]" name="setup1" is-config="true" duration-ms="4087" started-at="2021-12-06T15:03:18 IST" finished-at="2021-12-06T15:03:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="PASS" signature="TestBookHotel()[pri:0, instance:com.testcase.BookHotelTest@8646db9]" name="TestBookHotel" duration-ms="30489" started-at="2021-12-06T15:03:22 IST" finished-at="2021-12-06T15:03:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBookHotel -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testcase.BookHotelTest@8646db9]" name="close" is-config="true" duration-ms="780" started-at="2021-12-06T15:03:52 IST" finished-at="2021-12-06T15:03:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setup1()[pri:0, instance:com.testcase.BookHotelTest@8646db9]" name="setup1" is-config="true" duration-ms="3870" started-at="2021-12-06T15:03:53 IST" finished-at="2021-12-06T15:03:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="PASS" signature="TestBookHotel2()[pri:0, instance:com.testcase.BookHotelTest@8646db9]" name="TestBookHotel2" duration-ms="31448" started-at="2021-12-06T15:03:57 IST" finished-at="2021-12-06T15:04:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBookHotel2 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testcase.BookHotelTest@8646db9]" name="close" is-config="true" duration-ms="717" started-at="2021-12-06T15:04:28 IST" finished-at="2021-12-06T15:04:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="GenerateReport()[pri:0, instance:com.testcase.BookHotelTest@8646db9]" name="GenerateReport" is-config="true" duration-ms="363" started-at="2021-12-06T15:04:29 IST" finished-at="2021-12-06T15:04:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GenerateReport -->
+      </class> <!-- com.testcase.BookHotelTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
